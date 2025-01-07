@@ -1,11 +1,3 @@
-# Profile
-| Variable         |             Isi            |
-|------------------|----------------------------|
-| *Nama*           |        Luthfi Fauzan      |
-| *Kelas*          |          TI.23.A.5         |
-| *Mata Kuliah*    |     Pemrograman Web 1     |
-| *Dosen Pengampu* | Eko Budiarto, S.Kom., M.M.  |
-
 ## Laporan Praktikum
 
 > Mengapa menggunakan file .html dan bukan .php? Saya menggunakan link href langsung ke Bootstrap 5.0 untuk menjaga integritas .css tanpa perlu menggunakan kode PHP sama sekali.
